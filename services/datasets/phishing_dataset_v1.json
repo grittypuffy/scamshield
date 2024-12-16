@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "Txt in DM!",
+    "scam": 1,
+    "category": "PHISHING"
+  },
+  {
+    "id": 2,
+    "text": "Defreeze your bank account in minutes",
+    "scam": 1,
+    "category": "PHISHING"
+  }
+]
